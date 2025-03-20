@@ -1,2 +1,2 @@
 # CharCounter
- Count characters
+ Count characters in C#
